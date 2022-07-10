@@ -1,3 +1,3 @@
-# vitejs-vite-5sxqyy
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-5sxqyy)
+Todo List Menggunakan React Js 
+Untuk Tutorial kunjungi 
+https://www.youtube.com/watch?v=JgbkfhNuJ-w
